@@ -251,9 +251,9 @@ Classics,Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,White,Total
 2018,7.5,8.4,0,0,0,1,0,0.7,14.3,15.9
 Communication Studies,Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,White,Total
 2010,2.8,11.7,0,1,0,0,0,0,13.5,14.5
-2011,2.2,8.7,0,0,0,0,0,0,10.8,10/8
-2012,2.7,9.7,0,0,1.5,0,0,0,10.8,12/3
-2013,3.2,9.7,0,0.5,1.5,0,0,0,10.8,12/8
+2011,2.2,8.7,0,0,0,0,0,0,10.8,10.8
+2012,2.7,9.7,0,0,1.5,0,0,0,10.8,12.3
+2013,3.2,9.7,0,0.5,1.5,0,0,0,10.8,12.8
 2014,3.2,9.2,0,0.5,1.5,0,0,0,10.3,12.3
 2015,4.4,9.9,0,1,0,0,0,0,13.3,14.3
 2016,5.1,10.6,0,0.5,0,0,0,0.4,14.9,15.8
@@ -261,7 +261,7 @@ Communication Studies,Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,
 2018,5.6,14,0,2.5,0,0,0,1.3,15.8,19.6
 Community Health Sciences,Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,White,Total
 2010,15.1,7,0,3.5,1,1,0,0,16.6,22.1
-2011,14.4,6,0,2.5,1,1,0,n1,15.9,20.4
+2011,14.4,6,0,2.5,1,1,0,1,15.9,20.4
 2012,14.6,4,0,2.5,1,0,0,0,15.1,18.6
 2013,14.5,3,0,2.5,1,0,0,0,14,17.5
 2014,14.3,4,0,2.5,1,0,0,0,14.8,18.3
@@ -302,9 +302,9 @@ Computer Science,Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,White
 "Dean, GSE&IS",Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,White,Total
 2010,0,0,0,0,0,0,0,0,0,0
 2011,0,0,0,0,0,0,0,0,0,0
-2012,0,0,0,0,0,0,0,0,0,na
-2013,0,0,0,0,0,0,0,0,0,na
-2014,0,0,0,0,0,0,0,0,0,na
+2012,0,0,0,0,0,0,0,0,0,0
+2013,0,0,0,0,0,0,0,0,0,0
+2014,0,0,0,0,0,0,0,0,0,0
 2015,0.6,0,0,0,0,0,0,0,0.6,0.6
 2016,1.1,0,0,0,0,0,0,0,1.1,1.1
 2017,0.8,0,0,0,0,0,0,0,0.8,0.8
@@ -320,13 +320,13 @@ Computer Science,Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,White
 2017,0.8,1.8,0,0.6,0,0,0,0,2,2.6
 2018,0.5,2.9,0,1.5,0,0,0,0,1.8,3.4
 "Dean, LSPA",Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,White,Total
-2010,0,0,0,0,0,0,0,0,0,na
-2011,0,0,0,0,0,0,0,0,0,na
+2010,0,0,0,0,0,0,0,0,0,0
+2011,0,0,0,0,0,0,0,0,0,0
 2012,0,0,0,0,0,0,0,0,0,0
 2013,0,0,0,0,0,0,0,0,0,0
 2014,0,0.3,0,0,0,0,0,0,0.3,0.3
 2015,0.5,0,0,0,0,0,0,0,0.5,0.5
-2016,0,0,0,0,0,0,0,0,0,na
+2016,0,0,0,0,0,0,0,0,0,0
 2017,1,1.7,0,1,0,0,0,0,1.7,2.7
 2018,0,1.7,0,0,0,0,0,0,1.7,1.7
 "Dean, STFT",Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,White,Total
@@ -391,14 +391,14 @@ Design | Media Arts,Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,Wh
 2018,6,8,0,1,0,1,1,0,11,14
 Duchenne Musc Dyst Research Cntr (DMD Center),Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,White,Total
 2010,0,0,0,0,0,0,0,0,0,0
-2011,0,0,0,0,0,0,0,0,,na
+2011,0,0,0,0,0,0,0,0,,0
 2012,0,1,0,0,0,0,0,0,1,1
-2013,0,0,0,0,0,0,0,0,0,na
-2014,0,0,0,0,0,0,0,0,0,na
+2013,0,0,0,0,0,0,0,0,0,0
+2014,0,0,0,0,0,0,0,0,0,0
 2015,0,0,0,0,0,0,0,0,0,0
 2016,0,0,0,0,0,0,0,0,0,0
-2017,0,0,0,0,0,0,0,0,0,na
-2018,0,0,0,0,0,0,0,0,0,na
+2017,0,0,0,0,0,0,0,0,0,0
+2018,0,0,0,0,0,0,0,0,0,0
 "Earth, Planetary & Space Sciences (EPSS)",Female,Male,American Indian,Asian,Black,Latino,2+,Unknown,White,Total
 2010,2.3,18.5,0,0.7,0,0,0,0.7,19.5,20.9
 2011,2.3,16.1,0,1.3,0,0,0,0,17.1,18.5
